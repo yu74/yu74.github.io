@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SourceSansProIt';
+    src: url('fonts/SourceSansProIt.eot');
+    src: url('fonts/SourceSansProIt.eot') format('embedded-opentype'),
+         url('fonts/SourceSansProIt.woff2') format('woff2'),
+         url('fonts/SourceSansProIt.woff') format('woff'),
+         url('fonts/SourceSansProIt.ttf') format('truetype'),
+         url('fonts/SourceSansProIt.svg#SourceSansProIt') format('svg');
+}
