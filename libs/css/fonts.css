@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('../fonts/OpenSans-Semibold/OpenSansSemibold.eot');
+    src: url('../fonts/OpenSans-Semibold/OpenSansSemibold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Semibold/OpenSansSemibold.woff2') format('woff2'),
+         url('../fonts/OpenSans-Semibold/OpenSansSemibold.woff') format('woff'),
+         url('../fonts/OpenSans-Semibold/OpenSans-Semibold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../fonts/OpenSans-Regular/OpenSansRegular.eot');
+    src: url('../fonts/OpenSans-Regular/OpenSansRegular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Regular/OpenSansRegular.woff2') format('woff2'),
+         url('../fonts/OpenSans-Regular/OpenSansRegular.woff') format('woff'),
+         url('../fonts/OpenSans-Regular/OpenSans-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('../fonts/OpenSans-Light/OpenSansLight.eot');
+    src: url('../fonts/OpenSans-Light/OpenSansLight.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Light/OpenSansLight.woff2') format('woff2'),
+         url('../fonts/OpenSans-Light/OpenSansLight.woff') format('woff'),
+         url('../fonts/OpenSans-Light/OpenSans-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('../fonts/SourceSansPro-Regular/sourcesanspro-regular.eot');
+    src: url('../fonts/SourceSansPro-Regular/sourcesanspro-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SourceSansPro-Regular/sourcesanspro-regular.woff2') format('woff2'),
+         url('../fonts/SourceSansPro-Regular/sourcesanspro-regular.woff') format('woff'),
+         url('../fonts/SourceSansPro-Regular/SourceSansPro-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansProSemibold';
+    src: url('../fonts/SourceSansPro-Semibold/SourceSansProSemibold.eot');
+    src: url('../fonts/SourceSansPro-Semibold/SourceSansProSemibold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SourceSansPro-Semibold/SourceSansProSemibold.woff2') format('woff2'),
+         url('../fonts/SourceSansPro-Semibold/SourceSansProSemibold.woff') format('woff'),
+         url('../fonts/SourceSansPro-Semibold/SourceSansPro-Semibold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'SourceSansProIt';
+    src: url('../fonts/SourceSansPro-It/SourceSansProIt.eot');
+    src: url('../fonts/SourceSansPro-It/SourceSansProIt.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SourceSansPro-It/SourceSansProIt.woff2') format('woff2'),
+         url('../fonts/SourceSansPro-It/SourceSansProIt.woff') format('woff'),
+         url('../fonts/SourceSansPro-It/SourceSansPro-It.otf') format('opentype');
+}
